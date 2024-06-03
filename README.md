@@ -1,1 +1,19 @@
-# visual_config.json
+{
+    "workbench.iconTheme": "roblox-vscode-icon-theme-new",
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Min Dark",
+    "symbols.hidesExplorerArrows": false,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.rulers": [80, 120],
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontLigatures": true,
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": false,
+    "editor.semanticHighlighting.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.minimap.enabled": false,
+    "workbench.layoutControl.enabled": false
+}
